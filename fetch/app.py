@@ -17,6 +17,7 @@ def index():
     if request.method == 'POST':
         n = int(request.form['input'])
         vals = model.predict(n)
+        vals = vals*1000000
         dates = pd.date_range(start='2022-01-01', periods=n)
         df = pd.DataFrame({'date': dates, 'value': vals})
         plt.switch_backend('Agg') 
