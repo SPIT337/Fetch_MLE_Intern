@@ -15,3 +15,4 @@ follow it up with `flask run`
 
 
 
+<img src="https://user-images.githubusercontent.com/57720833/216872417-01fc524b-8683-4c58-823a-b89bc62cccea.png" width="1000" height="600">
