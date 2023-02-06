@@ -8,3 +8,10 @@ Run `pip install -r requirements.txt` in your terminal after navigating to the f
 
 follow it up with `flask run`
 
+
+
+<img src="https://user-images.githubusercontent.com/57720833/216872091-9588cee9-0b45-4f03-be3b-81591ebf8165.png" width="1000" height="600">
+
+
+
+
